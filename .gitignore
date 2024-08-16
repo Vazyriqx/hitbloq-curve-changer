@@ -21,7 +21,7 @@
 #specific ignores
 _*
 
-# !Makefile
+!Makefile
 
 # ...even if they are in subdirectories
 !*/
